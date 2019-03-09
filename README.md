@@ -24,10 +24,10 @@ INTERIM_REWARDS = Based on Robotic arm's proximity with the prop
 The optimizer used is ``RMSprop`` with ``LEARNING_RATE 0.1f`` for Objective 1 and ``LEARNING_RATE 0.01f`` for Objctive 2.
 
 The results for task 1 are 98% accuracy within 100 runs:
-[Objective 1](Outputs/Task_1_Accuracy_100Runs_98percent.jpg)
+[Objective_1](Outputs/Task_1_Accuracy_100Runs_98percent.jpg)
 
 The results for task 2 are 80% accuracy within 118 runs:
-[Objective 2](Outputs/Task_2_Accuracy_118Runs_80percent.jpg)
+[Objective_2](Outputs/Task_2_Accuracy_118Runs_80percent.jpg)
 
 The Robotic Arm hitting the Prop can be represented as:
-[Robotic Arm hitting the Prop](Outputs/Task_2_RoboticGripper_Hitting_Prop.jpg)
+[Robotic_Arm_hitting_Prop](Outputs/Task_2_RoboticGripper_Hitting_Prop.jpg)
