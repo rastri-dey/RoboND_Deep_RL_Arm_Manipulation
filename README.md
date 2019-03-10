@@ -23,8 +23,10 @@ The optimizer used is ``RMSprop`` with ``LEARNING_RATE 0.1f`` for Objective 1 an
 
 To launch the project for the first time, run the following in the terminal of the desktop gui:
 
-``cd /home/workspace/RoboND-DeepRL-Project/build/x86_64/bin``
-``./gazebo-arm.sh``
+```
+$ cd /home/workspace/RoboND-DeepRL-Project/build/x86_64/bin
+$ ./gazebo-arm.sh
+```
 
 ## Results
 
